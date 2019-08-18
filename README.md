@@ -1,2 +1,2 @@
 # To-do-list
-To do list with Angular
+Angular web application for To Do List. Created in ngGirl workshop.
